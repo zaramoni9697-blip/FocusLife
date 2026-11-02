@@ -1,0 +1,6 @@
+{
+  "name": "FocusLife",
+  "description": "Plan • Do • Grow. Premium all-in-one productivity and life management app with tasks, habits, smart calendar, notes, Pomodoro timer, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
